@@ -1,11 +1,6 @@
 This is the first file  in this repo 
 
-Ipusm below
+website contents
 
-ashish ashok adkeshwar manish sanjay asdkesashahas ak
-4
-
-
-
-
-ashish ashok adkeshar manish sanja d
+index.html
+.cc
